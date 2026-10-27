@@ -31,8 +31,8 @@ java -cp target/classes org.example.echo
 
 ## Enllaç a Google Drive
 
-[Documentacio](https://docs.google.com/document/d/1VYzq68j0GZE1cRuiE9A1cDr8DlTyoW013sQB3ESfH2A/edit?tab=t.0)
+[documentació](https://docs.google.com/document/d/1VYzq68j0GZE1cRuiE9A1cDr8DlTyoW013sQB3ESfH2A/edit?tab=t.0)
 
 ## Autor
 
-[Nom i cognoms]
+[Xavier Sans Alfara]
